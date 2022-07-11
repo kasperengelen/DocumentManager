@@ -1,0 +1,592 @@
+{
+  "documents": [
+    {
+      "authors": [
+        {
+          "firstName": "Alan M.",
+          "lastName": "Turing"
+        }
+      ],
+      "title": "Computing Machinery and Intelligence, Issue 236",
+      "publicationYear": 1950,
+      "publicationVenue": "Mind",
+      "pageCount": 28,
+      "documentType": "PAPER",
+      "sourceLocation": "https://doi.org/10.1093/mind/LIX.236.433",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Leslie G.",
+          "lastName": "Valiant"
+        }
+      ],
+      "title": "A theory of the learnable",
+      "publicationYear": 1984,
+      "publicationVenue": "Communications of the ACM, Vol. 27",
+      "pageCount": 9,
+      "documentType": "PAPER",
+      "sourceLocation": "https://dl.acm.org/doi/10.1145/1968.1972",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Anselm",
+          "lastName": "Blumer"
+        },
+        {
+          "firstName": "Andrzej",
+          "lastName": "Ehrenfeucht"
+        },
+        {
+          "firstName": "David",
+          "lastName": "Haussler"
+        },
+        {
+          "firstName": "Manfred K.",
+          "lastName": "Warmuth"
+        }
+      ],
+      "title": "Learnability and the Vapnik-Chervonenkis Dimension, Vol. 36",
+      "publicationYear": 1989,
+      "publicationVenue": "Journal of the ACM",
+      "pageCount": 37,
+      "documentType": "PAPER",
+      "sourceLocation": "https://dl.acm.org/doi/10.1145/76359.76371",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Richard S.",
+          "lastName": "Sutton"
+        }
+      ],
+      "title": "Learning to predict by the methods of temporal differences",
+      "publicationYear": 1988,
+      "publicationVenue": "Machine Learning, Vol. 3",
+      "pageCount": 36,
+      "documentType": "PAPER",
+      "sourceLocation": "https://link.springer.com/article/10.1007/BF00115009",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Stephen C.",
+          "lastName": "Johnson"
+        }
+      ],
+      "title": "Yacc: Yet Another Compiler-Compiler",
+      "publicationYear": 1978,
+      "publicationVenue": "Computing science technical report, No. 32",
+      "pageCount": 68,
+      "documentType": "PAPER",
+      "sourceLocation": "https://www.semanticscholar.org/paper/Yacc%3A-Yet-Another-Compiler-Compiler-Johnson-Hill/eae8d61d339aafcdd3c93734524aadd6ad257394",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Donald E.",
+          "lastName": "Knuth"
+        }
+      ],
+      "title": "Semantics of context-free languages",
+      "publicationYear": 1968,
+      "publicationVenue": "Mathematical systems theory, Volume 2",
+      "pageCount": 19,
+      "documentType": "PAPER",
+      "sourceLocation": "https://link.springer.com/article/10.1007/BF01692511",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Alfred V.",
+          "lastName": "Aho"
+        },
+        {
+          "firstName": "Monica S.",
+          "lastName": "Lam"
+        },
+        {
+          "firstName": "Ravi",
+          "lastName": "Sethi"
+        },
+        {
+          "firstName": "Jeffrey D.",
+          "lastName": "Ullman"
+        }
+      ],
+      "title": "Compilers: Principles, Techniques, and Tools (2nd ed.) (Dragon Book)",
+      "publicationYear": 2006,
+      "publicationVenue": "Pearson Education",
+      "pageCount": 1035,
+      "documentType": "BOOK",
+      "sourceLocation": "https://www.pearson.com/us/higher-education/program/Aho-Compilers-Principles-Techniques-and-Tools-2nd-Edition/PGM167067.html",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Rudolf",
+          "lastName": "Bayer"
+        }
+      ],
+      "title": "Binary B-trees for virtual memory",
+      "publicationYear": 1971,
+      "publicationVenue": "Proceedings of the 1971 ACM SIGFIDET",
+      "pageCount": 17,
+      "documentType": "PAPER",
+      "sourceLocation": "https://dl.acm.org/doi/10.1145/1734714.1734731",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Peter Pin-Shan",
+          "lastName": "Chen"
+        }
+      ],
+      "title": "The entity-relationship model—toward a unified view of data",
+      "publicationYear": 1976,
+      "publicationVenue": "ACM Transactions on Database Systems, Volume 1",
+      "pageCount": 28,
+      "documentType": "PAPER",
+      "sourceLocation": "https://dl.acm.org/doi/10.1145/320434.320440",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Gerard A.",
+          "lastName": "Salton"
+        },
+        {
+          "firstName": "A.",
+          "lastName": "Wong"
+        },
+        {
+          "firstName": "Chung-Shu",
+          "lastName": "Yang"
+        }
+      ],
+      "title": "A vector space model for automatic indexing",
+      "publicationYear": 1975,
+      "publicationVenue": "Communications of the ACM, Volume 18",
+      "pageCount": 8,
+      "documentType": "PAPER",
+      "sourceLocation": "https://dl.acm.org/doi/10.1145/361219.361220",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Karen Sparck",
+          "lastName": "Jones"
+        }
+      ],
+      "title": "A statistical interpretation of term specificity and its application in retrieval",
+      "publicationYear": 1988,
+      "publicationVenue": "Document retrieval systems, December 1988",
+      "pageCount": 11,
+      "documentType": "PAPER",
+      "sourceLocation": "https://dl.acm.org/doi/10.5555/106765.106782",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Dennis M",
+          "lastName": "Ritchie"
+        },
+        {
+          "firstName": "Ken",
+          "lastName": "Thompson"
+        }
+      ],
+      "title": "The UNIX Time-Sharing System",
+      "publicationYear": 1974,
+      "publicationVenue": "Communications of the ACM, Volume 17",
+      "pageCount": 11,
+      "documentType": "PAPER",
+      "sourceLocation": "https://dl.acm.org/doi/10.1145/361011.361061",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Edsger W.",
+          "lastName": "Dijkstra"
+        }
+      ],
+      "title": "Letters to the editor: go to statement considered harmful",
+      "publicationYear": 1968,
+      "publicationVenue": "Communications of the ACM, Volume 11",
+      "pageCount": 2,
+      "documentType": "PAPER",
+      "sourceLocation": "https://dl.acm.org/doi/10.1145/362929.362947",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Glenn E.",
+          "lastName": "Krasner"
+        },
+        {
+          "firstName": "Stephen",
+          "lastName": "Pope"
+        }
+      ],
+      "title": "A Description of the Model-View-Controller User Interface Paradigm in the Smalltalk-80 System",
+      "publicationYear": 1988,
+      "publicationVenue": "Journal of Object-Oriented Programming, Volume 1",
+      "pageCount": 50,
+      "documentType": "PAPER",
+      "sourceLocation": "https://www.semanticscholar.org/paper/A-Description-of-the-Model-View-Controller-User-in-Krasner-Pope/028a9f18ec7f66b52ca960f3b899701ddd8637f8",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Frederick P., Jr",
+          "lastName": "Brooks"
+        }
+      ],
+      "title": "No Silver Bullet Essence and Accidents of Software Engineering",
+      "publicationYear": 1987,
+      "publicationVenue": "Computer, Volume 20",
+      "pageCount": 10,
+      "documentType": "PAPER",
+      "sourceLocation": "https://ieeexplore.ieee.org/document/1663532",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "John E.",
+          "lastName": "Hopcroft"
+        },
+        {
+          "firstName": "Rajeev",
+          "lastName": "Motwani"
+        },
+        {
+          "firstName": "Jeffrey D.",
+          "lastName": "Ullman"
+        }
+      ],
+      "title": "Introduction to Automata Theory, Languages, and Computation: Global Edition, 3rd edition",
+      "publicationYear": 2013,
+      "publicationVenue": "Addison-Wesley",
+      "pageCount": 550,
+      "documentType": "BOOK",
+      "sourceLocation": "https://www.pearson.com/store/p/introduction-to-automata-theory-languages-and-computation-global-edition/P100000093639/9781292039053",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Noam",
+          "lastName": "Chomsky"
+        }
+      ],
+      "title": "On certain formal properties of grammars",
+      "publicationYear": 1959,
+      "publicationVenue": "Information and Control, Volume 2",
+      "pageCount": 31,
+      "documentType": "PAPER",
+      "sourceLocation": "https://www.sciencedirect.com/science/article/pii/S0019995859903626",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Alan M.",
+          "lastName": "Turing"
+        }
+      ],
+      "title": "On computable numbers, with an application to the Entscheidingsproblem",
+      "publicationYear": 1936,
+      "publicationVenue": "Proceedings of the London Mathematical Society, Volume s2-42",
+      "pageCount": 36,
+      "documentType": "PAPER",
+      "sourceLocation": "https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/plms/s2-42.1.230",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "John Michael",
+          "lastName": "Spivey"
+        }
+      ],
+      "title": "The Z notation: a reference manual",
+      "publicationYear": 1989,
+      "publicationVenue": "Prentice Hall",
+      "pageCount": 155,
+      "documentType": "BOOK",
+      "sourceLocation": "https://dl.acm.org/doi/10.5555/61690",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "E. Mark",
+          "lastName": "Gold"
+        }
+      ],
+      "title": "Language identification in the limit",
+      "publicationYear": 1967,
+      "publicationVenue": "Information and Control, Volume 10",
+      "pageCount": 28,
+      "documentType": "PAPER",
+      "sourceLocation": "https://www.sciencedirect.com/science/article/pii/S0019995867911655#!",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Arthur L.",
+          "lastName": "Samuel"
+        }
+      ],
+      "title": "Some Studies in Machine Learning Using the Game of Checkers",
+      "publicationYear": 1959,
+      "publicationVenue": "IBM Journal of Research and Development",
+      "pageCount": 20,
+      "documentType": "PAPER",
+      "sourceLocation": "https://ieeexplore.ieee.org/document/5392560",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "David E.",
+          "lastName": "Rumelhart"
+        },
+        {
+          "firstName": "Geoffrey E.",
+          "lastName": "Hinton"
+        },
+        {
+          "firstName": "Ronald J.",
+          "lastName": "Williams"
+        }
+      ],
+      "title": "Learning representations by back-propagating errors",
+      "publicationYear": 1986,
+      "publicationVenue": "Nature, Volume 323",
+      "pageCount": 4,
+      "documentType": "PAPER",
+      "sourceLocation": "https://www.nature.com/articles/323533a0",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "John Ross",
+          "lastName": "Quinlan"
+        }
+      ],
+      "title": "Induction of decision trees",
+      "publicationYear": 1989,
+      "publicationVenue": "Machine Learning, Volume 1",
+      "pageCount": 25,
+      "documentType": "PAPER",
+      "sourceLocation": "https://link.springer.com/article/10.1007/BF00116251",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Mikhail",
+          "lastName": "Belkin"
+        },
+        {
+          "firstName": "Partha",
+          "lastName": "Niyogi"
+        }
+      ],
+      "title": "Laplacian Eigenmaps for Dimensionality Reduction and Data Representation",
+      "publicationYear": 2003,
+      "publicationVenue": "Neural Computation, Volume 15",
+      "pageCount": 24,
+      "documentType": "PAPER",
+      "sourceLocation": "https://ieeexplore.ieee.org/document/6789755",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Ian J.",
+          "lastName": "Goodfellow"
+        },
+        {
+          "firstName": "Jean",
+          "lastName": "Pouget-Abadie"
+        },
+        {
+          "firstName": "Mehdi",
+          "lastName": "Mirza"
+        },
+        {
+          "firstName": "Bing",
+          "lastName": "Xu"
+        },
+        {
+          "firstName": "David",
+          "lastName": "Warde-Farley"
+        },
+        {
+          "firstName": "Sherjil",
+          "lastName": "Ozair"
+        },
+        {
+          "firstName": "Aaron",
+          "lastName": "Courville"
+        },
+        {
+          "firstName": "Yoshua",
+          "lastName": "Bengio"
+        }
+      ],
+      "title": "Generative Adversarial Networks",
+      "publicationYear": 2014,
+      "publicationVenue": " Advances in Neural Information Processing Systems, Volume 27",
+      "pageCount": 155,
+      "documentType": "PAPER",
+      "sourceLocation": "https://arxiv.org/abs/1406.2661?context=cs",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Hadley",
+          "lastName": "Wickham"
+        }
+      ],
+      "title": "Tidy Data",
+      "publicationYear": 2014,
+      "publicationVenue": "Journal of Statistical Software, Volume 59",
+      "pageCount": 23,
+      "documentType": "PAPER",
+      "sourceLocation": "https://www.jstatsoft.org/article/view/v059i10",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Leo",
+          "lastName": "Breiman"
+        }
+      ],
+      "title": "Statistical Modeling: The Two Cultures",
+      "publicationYear": 1989,
+      "publicationVenue": "Statistical Science, Volume 16",
+      "pageCount": 33,
+      "documentType": "PAPER",
+      "sourceLocation": "https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.full",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Corinna",
+          "lastName": "Cortes"
+        },
+        {
+          "firstName": "Vladimir",
+          "lastName": "Vapnik"
+        }
+      ],
+      "title": "Support-vector networks",
+      "publicationYear": 1995,
+      "publicationVenue": "Machine Learning, Volume 20",
+      "pageCount": 25,
+      "documentType": "PAPER",
+      "sourceLocation": "https://link.springer.com/article/10.1007/BF00994018",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Leo",
+          "lastName": "Breiman"
+        }
+      ],
+      "title": "Random Forests",
+      "publicationYear": 2001,
+      "publicationVenue": "Machine Learning, Volume 45",
+      "pageCount": 28,
+      "documentType": "PAPER",
+      "sourceLocation": "https://link.springer.com/article/10.1023/A:1010933404324",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Robert",
+          "lastName": "Tarjan"
+        }
+      ],
+      "title": "Depth-First Search and Linear Graph Algorithms",
+      "publicationYear": 1972,
+      "publicationVenue": "SIAM Journal on Computing, Volume 1",
+      "pageCount": 15,
+      "documentType": "PAPER",
+      "sourceLocation": "https://epubs.siam.org/doi/10.1137/0201010",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Edsger Wybe",
+          "lastName": "Dijkstra"
+        }
+      ],
+      "title": "A note on two problems in connexion with graphs",
+      "publicationYear": 1959,
+      "publicationVenue": "Numerische Mathematik, Volume 1",
+      "pageCount": 3,
+      "documentType": "PAPER",
+      "sourceLocation": "https://link.springer.com/article/10.1007/BF01386390",
+      "notesLocation": null,
+      "readingStatus": "NOT_STARTED"
+    }
+  ]
+}
