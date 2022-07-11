@@ -1,0 +1,106 @@
+{
+  "documents": [
+    {
+      "authors": [
+        {
+          "firstName": "Peter",
+          "lastName": "Selie"
+        },
+        {
+          "firstName": "John",
+          "lastName": "Doe"
+        }
+      ],
+      "title": "Some title",
+      "publicationYear": 2009,
+      "publicationVenue": "Important conference",
+      "pageCount": 50,
+      "documentType": "BOOK",
+      "sourceLocation": null,
+      "notesLocation": null,
+      "readingStatus": "FINISHED",
+      "tags": ["tag1", "tag2", "third tag"]
+    },
+    {
+      "authors": [
+        {
+          "firstName": "The",
+          "lastName": "Name"
+        }
+      ],
+      "title": "Another title",
+      "publicationYear": 1,
+      "publicationVenue": "International conference on nonsense",
+      "pageCount": 1,
+      "documentType": "PAPER",
+      "sourceLocation": "ABCDEF",
+      "notesLocation": null,
+      "readingStatus": "FINISHED",
+      "tags": []
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Jane",
+          "lastName": "Doe"
+        }
+      ],
+      "title": "Third title",
+      "publicationYear": 0,
+      "publicationVenue": "prestigious journal",
+      "pageCount": 35,
+      "documentType": "PRESENTATION",
+      "sourceLocation": null,
+      "notesLocation": "UVWXYZ",
+      "readingStatus": "NOT_STARTED",
+      "tags": ["too", "many", "tags"]
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Jonas",
+          "lastName": "Johnson"
+        }
+      ],
+      "title": "Title number Four",
+      "publicationYear": -1,
+      "publicationVenue": "Journal on Computer Science",
+      "pageCount": 33,
+      "documentType": "COURSE_TEXT",
+      "sourceLocation": "LMN123",
+      "notesLocation": "IJK654",
+      "readingStatus": "IN_PROGRESS",
+      "tags": []
+    },
+    {
+      "authors": [
+        {
+          "firstName": null,
+          "lastName": "2nd Name"
+        }
+      ],
+      "title": "Final Title",
+      "publicationYear": null,
+      "publicationVenue": "Journal on Medicine",
+      "pageCount": 99999,
+      "documentType": "POSTER",
+      "readingStatus": "ON_HOLD",
+      "tags": ["tag1", "2nd tag"]
+    },
+    {
+      "authors": [
+        {
+          "firstName": "Some",
+          "lastName": "Author"
+        }
+      ],
+      "title": "Last title",
+      "publicationYear": null,
+      "publicationVenue": "Journal X",
+      "pageCount": 36,
+      "documentType": "OTHER",
+      "readingStatus": "FINISHED",
+      "tags": ["A", "B", "C", "D"]
+    }
+  ]
+}

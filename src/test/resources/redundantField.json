@@ -1,0 +1,28 @@
+{
+  "documents": [
+    {
+      "authors": [
+        {
+          "firstName": "Peter",
+          "middleName": "S",
+          "lastName": "Selie"
+        },
+        {
+          "firstName": "John",
+          "middleName": null,
+          "lastName": "Doe"
+        }
+      ],
+      "title": "Some title",
+      "publicationYear": 2009,
+      "publicationVenue": "Important conference",
+      "pageCount": 50,
+      "documentType": "BOOK",
+      "sourceLocation": null,
+      "notesLocation": null,
+      "readingStatus": "FINISHED",
+      "tags": ["tag1", "tag2", "third tag"],
+      "someNonsensicalFieldName": "some value"
+    }
+  ]
+}
